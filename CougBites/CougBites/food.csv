@@ -1,0 +1,310 @@
+ID,Name,"LocationID (SS = 0, HS = 1, NS = 2)",Description,"Saturday (0 is no, 1 is yes)",Sunday,Monday,Tuesday,Breakfast/Lunch,Snack,Dinner,Filename
+1,Mini Zucchini Sweet Bread Loaf,2,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",1,1,0,0,1,0,0,breadloaf.png
+2,Mini Blueberry Coffee Cake,2,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breadloaf.png
+3,Apple Spice Muffin,2,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,muffin.png
+4,Peach Fuzzy Navel Muffin,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,muffin.png
+5,Banana Walnut Bread,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",1,1,0,0,1,0,0,breadloaf.png
+6,Almond Poppy Seed Bread,2,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breadloaf.png
+7,Coug Breakfast Sandwich w/Cheese,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,0,1,0,0,breakfastsandwich.png
+8,Coug Breakfast Sandwich w/Sausage,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breakfastsandwich.png
+9,Scrambled Eggs to Order,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",1,1,1,1,1,0,0,egg.png
+10,Bacon,2,Contains Allergens: pork.png,1,1,1,0,1,0,0,bacon.png
+11,Omelet To Order,2,"Contains Allergens: egg.pngs, Milk, pork.png",1,1,1,1,1,0,0,egg.png
+12,Eggs To Order,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",1,1,1,1,1,0,0,egg.png
+13,Tater Tots,2,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",1,1,0,0,1,0,0,potato.png
+14,Spicy Italian Pork Sausage Link,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,0,0,0,1,0,0,sausage.png
+15,Biscuit,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,biscuit.jpg
+16,Southern Country Gravy,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,biscuit.jpg
+17,Chicken Wings,2,Contains Allergens: Soy,1,0,0,0,1,0,0,chicken.png
+18,Poached Egg & Smoked Tomato Toast,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",1,0,0,0,1,0,0,toast.png
+19,Buttermilk Pancake w/Toppings,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,0,0,0,1,0,0,waffles.png
+20,Sausage Gravy,2,Contains Allergens: Gluten/Wheat,1,1,0,0,1,0,0,biscuit.jpg
+21,Bacon & Cheddar Breakfast Baguette,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",1,0,0,0,1,0,0,breakfastsandwich.png
+22,Snoqualmie Falls Oatmeal ,2,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,1,1,0,0,oatmeal.png
+23,Coug Breakfast Sandwich w/Bacon,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,0,1,0,0,breakfastsandwich.png
+24,Breakfast Sausage Links,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,1,0,1,1,0,0,sausage.png
+25,Mushroom & Parmesan Quiche,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,quiche.png
+26,Eggs Florentine Benedict,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,egg.png
+27,Cheese Blintz,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,blintze.png
+28,French Toast,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,1,0,1,0,0,toast.png
+29,Mini Apple Spice Bread Loaf,2,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,1,1,0,0,breadloaf.png
+30,Chocolate Chip Sweet Bread,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,breadloaf.png
+31,Mini Raspberry Coffee Cake,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,cake.png
+32,Orange Cranberry Walnut Muffin,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,muffin.png
+33,Zucchini Sweet Bread,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,1,1,1,0,0,breadloaf.png
+34,Lemon Poppy Seed Muffin,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,muffin.png
+35,Waffle w/Topping,2,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",0,0,1,1,1,0,0,waffles.png
+36,Hash Brown Patties,2,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,potato.png
+37,Southwest Tofu Scramble,2,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,0,egg.png
+38,Green Chili Breakfast Baguette,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,0,breakfastsandwich.png
+39,Sausage & Cheese Breakfast Bagel,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,0,0,1,1,0,0,breakfastsandwich.png
+40,Cheese Breakfast Bagel,2,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,breakfastsandwich.png
+41,Breakfast Sausage Patties,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,sausage.png
+42,Avocado Toast w/Pico de Gallo,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,toast.png
+43,Chilaquiles w/Egg,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,0,1,1,0,0,egg.png
+44,Chipotle Roasted Red Potatoes,2,Contains Allergens: pork.png,0,0,0,1,1,0,0,potato.png
+45,Assorted Chocolate Layer Cakes,2,"Contains Allergens: egg.pngs, Milk, pork.png",1,1,0,0,1,0,1,cake.png
+46,Chocolate Chunk Brownie,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",1,1,0,0,1,0,1,cake.png
+47,White Layer Cake,2,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",1,1,0,0,1,0,1,cake.png
+48,Birthday Rice Krispie Treat,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,1,0,0,1,0,1,cake.png
+49,Orange Coconut Bar,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,1,cake.png
+50,Seasoned Curly Fries,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,0,1,1,1,1,potato.png
+51,Cheeseburger,2,Contains Allergens: Soy,1,0,0,1,1,1,1,burger.png
+52,Chicken Strips,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",1,1,1,1,1,1,1,chicken.png
+53,Grilled Cheese Sandwich,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,0,0,1,1,1,1,sandwich.png
+54,Grilled Chicken Burger,2,Contains Allergens: Gluten/Wheat,1,1,1,1,1,1,1,burger.png
+55,Gardein Black Bean Burger,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",1,1,1,1,1,1,1,burger.png
+56,Deli Bar,2,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,1,1,1,1,salad.png
+57,Grilled Gardein Chick'N Salad,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,salad.png
+58,Egg Salad,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,1,0,0,1,1,1,egg.png
+59,Build Your Own Pasta,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,pasta.png
+60,Build Your Own Pasta (with Protein),2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,pasta.png
+61,Presto Made-To-Order Pizza,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,pizza.png
+62,Presto Made-To-Order Pizza (2-Topping),2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,pizza.png
+63,Chicken Caesar Salad,2,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,1,1,1,1,salad.png
+64,Italian Pasta Salad,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,salad.png
+65,Peach Cloud Salad w/Marshmallows,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,salad.png
+66,Salad Bar,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,salad.png
+67,Fruit & Yogurt Bar,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",1,1,1,1,1,1,1,salad.png
+68,Garlic & Herb Lentil Salad,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,salad.png
+69,Ranch Red Potato Salad w/Bacon,2,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",1,1,0,0,1,1,1,salad.png
+70,Vegetarian Soup Of The Day,2,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,soup.png
+71,Non-vegetarian Soup of the Day,2,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,soup.png
+72,Grilled Cheese Sandwich On Multigrain,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,1,0,1,1,0,sandwich.png
+73,Cantonese Beef Rice Bowl,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,1,0,0,1,0,0,rice.png
+74,Cantonese Chicken Rice Bowl,2,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,rice.png
+75,Cantonese Veggie Bowl,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,salad.png
+76,Grilled Italian Vegetable Sandwich,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,0,sandwich.png
+77,"Basil, Zucchini, & Tomatoes ",2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,1,0,1,0,0,salad.png
+78,Cod w/Mediterranean Salsa ,2,Contains Allergens: pork.png,0,0,1,0,1,0,0,salad.png
+79,Kale Walnut Pesto Pasta ,2,"Contains Allergens: egg.pngs, Milk, pork.png",0,0,1,0,1,0,0,pasta.png
+80,Roasted Sweet Potatoes ,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",0,0,1,0,1,0,0,potato.png
+81,Peanut Butter Brownie,2,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",0,0,1,1,1,0,0,cake.png
+82,White Cake w/Assorted Toppings,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,1,1,0,0,cake.png
+83,Blueberry Coconut Cookie Bar,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,cake.png
+84,Chocolate Pecan Blondie,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,cake.png
+85,Blended Mushroom Beef Burger,2,Contains Allergens: Soy,0,0,1,0,1,0,0,burger.png
+86,French Fries w/Potato Skin,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,0,1,0,1,0,0,potato.png
+87,Tofu Salad ,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,salad.png
+88,Tuna Salad,2,Contains Allergens: Gluten/Wheat,0,0,1,1,1,0,0,salad.png
+89,Mongolian Bar,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",0,0,1,0,1,0,0,rice.png
+90,Beef Taco Salad,2,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,1,1,0,1,salad.png
+91,Berry Cloud Salad w/Marshmallows,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,salad.png
+92,Chicken & Bean Tex-Mex Salad,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,1,1,0,1,salad.png
+93,Cucumber & Tomato Salad ,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,salad.png
+94,Macaroni Salad,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,salad.png
+95,Potato Leek Soup,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,soup.png
+96,Vegetable Rice Soup,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,soup.png
+97,Tomato Basil Soup,2,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,0,1,0,1,soup.png
+98,Vegetable Egg Rolls,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,egg_roll.png
+99,Sesame Salmon,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,fish.png
+100,Stir-Fry Vegetables,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,salad.png
+101,Brown Rice,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,0,1,1,0,1,rice.png
+102,White Rice,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,1,1,0,1,rice.png
+103,Pork Egg Roll,2,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",0,0,0,1,1,0,1,egg_roll.png
+104,Broccoli Tofu Stir Fry,2,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,salad.png
+105,Chocolate Lentil Cake,2,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,cake.png
+106,Luau Burger,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,burger.png
+107,Tex-Mex Bar Natural,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,0,0,1,1,0,1,salad.png
+108,Ground Beef Chili,2,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,soup.png
+109,Homemade Turkey Noodle Soup,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,soup.png
+110,White Bean Soup ,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,soup.png
+111,Fresh Primavera Vegetables,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",1,0,0,0,0,0,1,salad.png
+112,Lemon Herb Roasted Chicken,2,Contains Allergens: pork.png,1,0,0,0,0,0,1,chicken.png
+113,Basil Brown Rice,2,"Contains Allergens: egg.pngs, Milk, pork.png",1,0,0,0,0,0,1,rice.png
+114,Baked Ratatouile,2,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",1,0,0,0,0,0,1,salad.png
+115,Mashed Parmesan Yukon Potatoes,2,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",1,0,0,0,0,0,1,potato.png
+116,Gardein BBQ Chick'n,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,0,0,0,0,0,1,chicken.png
+117,Chicken Marsala,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,1,0,0,0,0,1,chicken.png
+118,Parmesan Baked Cod,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,1,0,0,0,0,1,fish.png
+119,Steamed Rainbow Cauliflower,2,Contains Allergens: Soy,0,1,0,0,0,0,1,salad.png
+120,Wild Rice Pilaf Blend,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,1,0,0,0,0,1,salad.png
+121,Eggplant & Mushroom Napolean,2,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,1,0,0,0,0,1,salad.png
+122,Mexican Rice Stuffed Peppers,2,Contains Allergens: Gluten/Wheat,0,0,1,0,0,0,1,rice.png
+123,Capri Mixed Vegetables,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",0,0,1,0,0,0,1,salad.png
+124,Baked Yams,2,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,0,0,0,1,salad.png
+125,Southwest Chicken,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,0,0,1,chicken.png
+126,Huevos Rancheros,2,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,0,0,0,1,egg.png
+127,Pork Cutlet w/Peach Compote,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,pork.png
+128,Cilantro Lime Rice,2,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,rice.png
+129,Balsamic Parmesan Cauliflower,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,salad.png
+130,Roasted Fingerling Potatoes,2,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,potato.png
+131,Avocado & Quinoa Croquette,2,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,0,1,0,0,1,crochet.png
+132,Pan-Fried Trout Almondine,2,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,salad.png
+133,Cream Cheese Cinnamon Roll,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,0,0,muffin.png
+134,Orange Roll,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,muffin.png
+135,Sour Cream Coffee Cake w/Walnuts,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",1,1,1,1,1,0,0,cake.png
+136,Banana Walnut Bread,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,0,0,0,1,0,0,breadloaf.png
+137,Almond Poppy Seed Bread,0,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breadloaf.png
+138,Mini Zucchini Sweet Bread Loaf,0,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",1,1,0,0,1,0,0,breadloaf.png
+139,Ham & Pepperjack Cheese Croissant,0,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breakfastsandwich.png
+140,Mini Blueberry Coffee Cake,0,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,breadloaf.png
+141,Apple Spice Muffin,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,0,0,muffin.png
+142,Peach Fuzzy Navel Muffin,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",1,1,0,0,1,0,0,muffin.png
+143,Bacon Cheddar Croissant,0,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,breakfastsandwich.png
+144,Chocolate Chip Sweet Bread,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,breadloaf.png
+145,Mini Raspberry Coffee Cake,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,cake.png
+146,Zucchini Sweet Bread,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,1,1,1,0,0,breadloaf.png
+147,Caramel Raisin Pecan Roll,0,Contains Allergens: pork.png,0,0,1,1,1,0,0,muffin.png
+148,Lemon Poppy Seed Muffin,0,"Contains Allergens: egg.pngs, Milk, pork.png",0,0,1,1,1,0,0,muffin.png
+149,Orange Cranberry Walnut Muffin,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",0,0,1,1,1,0,0,muffin.png
+150,Mini Apple Spice Bread Loaf,0,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",0,0,1,1,1,0,0,breadloaf.png
+151,Coug Breakfast Sandwich w/Bacon,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,1,1,1,1,0,0,breakfastsandwich.png
+152,Coug Breakfast Sandwich w/Cheese,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,1,1,1,0,0,breakfastsandwich.png
+153,Coug Breakfast Sandwich w/Sausage,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,1,1,1,1,0,0,breakfastsandwich.png
+154,Hash Brown Patties,0,Contains Allergens: Soy,1,0,1,1,1,0,0,potato.png
+155,Tater Tots,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",1,1,0,1,1,0,0,potato.png
+156,Chicken Sausage Links,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,0,0,0,1,0,0,sausage.png
+157,Individual Muchroom & Spinach Quiche,0,Contains Allergens: Gluten/Wheat,1,0,0,0,1,0,0,quiche.png
+158,Soft-Boiled Egg,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",1,1,1,1,1,0,0,egg.png
+159,Sausage Gravy,0,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,0,1,0,0,biscuit.jpg
+160,Scrambled Eggs w/Cheese,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,1,1,0,0,egg.png
+161,Scrambled Eggs to Order,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,1,0,1,1,0,0,egg.png
+162,Bacon,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,0,0,bacon.png
+163,Honey Whole Weat Pancake,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,0,0,0,1,0,0,waffles.png
+164,Snoqualmie Falls Oatmeal ,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,0,0,oatmeal.png
+165,Biscuit,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,0,1,0,0,biscuit.jpg
+166,Southern Country Gravy,0,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,0,1,0,0,biscuit.jpg
+167,Beef Stroganoff,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,0,0,0,1,0,0,pasta.png
+168,Tater Tot Casserole w/Ground Beef,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,potato.png
+169,French Toast,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,0,0,1,0,0,toast.png
+170,Malt-O-Meal Hot Cereal,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,1,0,0,1,0,0,oatmeal.png
+171,Breakfast Sausage Links,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,1,0,1,0,0,sausage.png
+172,Bacon & Cheddar Quiche,0,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",0,1,0,0,1,0,0,quiche.png
+173,Brunch Potatoes,0,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,1,1,0,1,0,0,potato.png
+174,Southwest Tofu Scramble,0,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,0,egg.png
+175,Cream of Wheat Hot Cereal,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,oatmeal.png
+176,Bacon & Cheddar Breakfast Baguette,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,0,0,1,1,0,0,breakfastsandwich.png
+177,Grilled Ham,0,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,pork.png
+178,Buttermilk Pancake w/Toppings,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,0,waffles.png
+179,Chocolate Chunk Brownie,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,0,1,1,1,cake.png
+180,Assorted Chocolate Layer Cakes,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",1,1,0,0,1,1,1,cake.png
+181,Assorted White Layer Cakes,0,Contains Allergens: pork.png,1,1,0,0,1,1,1,cake.png
+182,White Layer Cake,0,"Contains Allergens: egg.pngs, Milk, pork.png",1,1,0,0,1,1,1,cake.png
+183,Birthday Rice Krispie Treat,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",1,1,0,0,1,1,1,cake.png
+184,Orange Coconut Bar,0,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",1,1,0,0,1,1,1,cake.png
+185,Peanut Butter Brownie,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,1,1,1,1,cake.png
+186,Chocolate Lentil Cake,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,cake.png
+187,White Cake w/Assorted Toppings,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,cake.png
+188,Blueberry Coconut Cookie Bar,0,Contains Allergens: Soy,0,0,1,1,1,1,1,cake.png
+189,Fruit Cobbler,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,0,1,1,1,1,1,cake.png
+190,Chocolate Pecan Blondie,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,cake.png
+191,Gardein Veggie Burger,0,Contains Allergens: Gluten/Wheat,1,1,1,1,1,1,1,burger.png
+192,Hamburger,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",1,1,1,1,1,1,1,burger.png
+193,Cheeseburger,0,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",1,1,1,1,1,1,1,burger.png
+194,Chicken Strips,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,chicken.png
+195,French Fries w/Potato Skin,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,1,1,1,1,1,1,potato.png
+196,Grilled Chicken Burger,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,burger.png
+197,Gardein Grilled Chick'n Burger,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,burger.png
+198,Gardein Black Bean Burger,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,burger.png
+199,Chicken Bibimbap,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,0,rice.png
+200,Pork Belly Bibimbap,0,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,0,1,1,0,0,rice.png
+201,Ground Beef Bibimbap,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,0,rice.png
+202,Rice Bowl Bar,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,0,1,0,1,rice.png
+203,Gluten Free Italian Pasta Bar,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,pasta.png
+204,Caesar Salad,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",1,1,1,1,1,1,1,salad.png
+205,Garden Salad,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,1,1,1,1,1,salad.png
+206,Subs N' Wraps,0,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",1,1,1,1,1,1,1,sandwich.png
+207,Deep Dish Meatlovers' Pizza,0,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,0,0,1,1,1,1,pizza.png
+208,Cheese Pizza,0,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,0,0,1,1,1,1,pizza.png
+209,Hawaiian Pizza,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,1,1,1,1,pizza.png
+210,Pepperoni Pizza,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",1,1,0,1,1,1,1,pizza.png
+211,Deluxe Veggie Pizza,0,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",1,1,0,1,1,1,1,pizza.png
+212,Whole Wheat Cheese Pizza,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,1,1,pizza.png
+213,Whole Wheat Veggie Pizza,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,1,1,pizza.png
+214,Whole Wheat Veggie Deluxe Pizza,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,1,0,1,1,1,pizza.png
+215,Chicken Yakisoba,0,Contains Allergens: pork.png,1,0,0,0,0,0,1,chicken.png
+216,Sesame Snap Peas & Carrots,0,"Contains Allergens: egg.pngs, Milk, pork.png",1,0,0,0,0,0,1,salad.png
+217,Pork Egg Roll,0,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",1,0,0,0,0,0,1,egg_roll.png
+218,Sesame Sticky Rice,0,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",1,0,0,0,0,0,1,rice.png
+219,Gardein Kung Pao Chick'n,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",1,0,0,0,0,0,1,chicken.png
+220,Japanese Pork Curry,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",1,0,0,0,0,0,1,pork.png
+221,Roast Beef,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,1,0,0,0,0,1,pork.png
+222,Roasted Pork Loin,0,Contains Allergens: Soy,0,1,0,0,0,0,1,pork.png
+223,Vegetable Rice Pilaf,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,1,0,0,0,0,1,rice.png
+224,Herb Roasted Potatoes,0,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,1,0,0,0,0,1,potato.png
+225,Gardein Beefless Pot Pie,0,Contains Allergens: Gluten/Wheat,0,1,0,0,0,0,1,potpie.png
+226,Fresh Carrots,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",0,1,0,0,0,0,1,salad.png
+227,Pesto Chicken Breast,0,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,0,0,0,1,chicken.png
+228,Fettuccini w/Tomatoes,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,0,0,1,pasta.png
+229,Tomato Braised Green Beans,0,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,0,0,0,1,salad.png
+230,Garlic Bread,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,0,0,1,breadloaf.png
+231,Chickpea & Spinach Stuffed Zucchini,0,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,0,0,1,salad.png
+232,Soy-Lime Baby Back Pork Ribs,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,pork.png
+233,White Sticky Rice,0,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,rice.png
+234,Thai Vegetables,0,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,0,1,0,0,1,salad.png
+235,Roasted Soy Glazed Chicken,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,chicken.png
+236,Broccoli Tofu Stir Fry,0,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,0,0,1,rice.png
+237,Deli Vegan Sandwich Special,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,0,sandwich.png
+238,Salad Special of the Day,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,1,1,1,1,0,salad.png
+239,Deli Salad Combo,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,0,salad.png
+240,Build a Sandwich,1,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",0,0,1,1,1,1,0,sandwich.png
+241,Build Your Own Salad,1,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,0,salad.png
+242,Build Your Own Salad w/Protein,1,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,0,salad.png
+243,Mini Apple Spice Bread Loaf,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,breadloaf.png
+244,Lemon Poppy Seed Muffin,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,0,1,1,1,1,1,muffin.png
+245,Blueberry Coconut Cookie Bar,1,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,muffin.png
+246,Peanut Butter Brownie,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,cake.png
+247,Cream Cheese Cinnamon Roll,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,muffin.png
+248,Mini Raspberry Coffee Cake,1,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,0,1,1,1,1,cake.png
+249,Chocolate Pecan Blondie,1,Contains Allergens: pork.png,0,0,0,1,1,1,1,cake.png
+250,Fruit Cobbler,1,"Contains Allergens: egg.pngs, Milk, pork.png",0,0,0,1,1,1,1,cake.png
+251,Bacon Cheddar Croissant,1,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",0,0,0,1,1,1,1,breakfastsandwich.png
+252,Chocolate Chip Sweet Bread,1,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",0,0,0,1,1,1,1,breadloaf.png
+253,Caramel Raisin Pecan Roll,1,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,0,1,1,1,1,muffin.png
+254,Chocolate Lentil Cake,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,cake.png
+255,White Cake w/Assorted Toppings,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,cake.png
+256,Orange Cranberry Walnut Muffin,1,Contains Allergens: Soy,0,0,0,1,1,1,1,muffin.png
+257,Sour Cream Coffee Cake w/Walnuts,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,0,0,1,1,1,1,cake.png
+258,Zucchini Sweet Bread,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,breadloaf.png
+259,Seasoned Curly Fries,1,Contains Allergens: Gluten/Wheat,0,0,1,1,1,1,1,potato.png
+260,French Fries w/Potato Skin,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",0,0,1,1,1,1,1,potato.png
+261,Tater Tots,1,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,1,1,1,1,potato.png
+262,Fried Green Beans,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,salad.png
+263,Six Piece Chicken Wings,1,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,1,1,1,1,chicken.png
+264,Mac & Cheese Bites,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,pasta.png
+265,Deep Fried Onion Rings,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,onion-rings.png
+266,Grilled Cheese Bar,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,sandwich.png
+267,Beef & Lamb Gyro,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,sandwich.png
+268,Bison Burger,1,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,0,1,1,1,1,burger.png
+269,Shrimp Quesadilla,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,sandwich.png
+270,Backyard Classic Burger,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,burger.png
+271,B' B' B' Bacon Burger,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,burger.png
+272,LA Burger,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,0,1,1,1,1,burger.png
+273,Lone Star Burger,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,burger.png
+274,Beyond Burger w/Daiya Cheese,1,"Meal Type: Halal, Vegan, Vegetarian; Contains AllergensGluten/Wheat",0,0,0,1,1,1,1,burger.png
+275,Bacon Garlic Parmesan Loaded Fries,1,"Meal Type: Vegetarian ; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,1,1,potato.png
+276,Chicken Shoyu,1,"Meal Type: Vegan; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,chicken.png
+277,Vegetable Lo Mein,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,pasta.png
+278,Garlic Sautéed Spinach,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy, Tree Nuts",0,0,1,0,1,0,1,salad.png
+279,Teriyaki Tofu,1,"Meal Type: Vegetarian; Contains Allergens:  egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,rice.png
+280,Hot & Sour Shrimp,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,shrimp.png
+281,Pork Egg Roll,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,egg_roll.png
+282,Jasmine Rice,1,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: egg.pngs",0,0,1,1,1,0,1,rice.png
+283,Mexi Taco Bar,1,Contains Allergens: pork.png,0,0,1,0,1,0,1,taco.jpg
+284,Sauteed Zucchini,1,"Contains Allergens: egg.pngs, Milk, pork.png",0,0,0,1,1,0,1,salad.png
+285,Baked Sweet Potato,1,"Meal Type: Gluten Free, Halal, Healthy Option, Vegetarian; Contains Allergens: ",0,0,0,1,1,0,1,potato.png
+286,Cajun Chicken Breast,1,"Meal Type: Vegan, Vegetarian; Contains Allergens: Soy",0,0,0,1,1,0,1,chicken.png
+287,Carrot Osso Buco,1,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,0,1,1,0,1,salad.png
+288,Street Taco Bar,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,taco.jpg
+289,Dulce De Leche Churros,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,churros.png
+290,Burrito Bowl,1,Contains Allergens: Soy,0,0,0,1,1,0,1,taco.jpg
+291,Spanish Rice,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat",0,0,0,1,1,0,1,rice.png
+292,Mexicali Corn,1,"Meal Type: Halal, Vegetarian; Contains Allergens: Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,salad.png
+293,Salad Bar,1,Contains Allergens: Gluten/Wheat,0,0,1,1,1,1,1,salad.png
+294,Yogurt Bar,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, pork.png",0,0,1,1,1,1,1,salad.png
+295,Homemade Cream of Tomato Soup,1,"Meal Type: Halal, Healthy Option, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,1,1,1,1,soup.png
+296,Rice Florentine Soup,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,1,1,soup.png
+297,Cheese Tortellini w/Pesto Cream Sauce,1,"Meal Type: Allergen-Friendly, Gluten Free; Contains Allergens: pork.png",0,0,1,1,1,0,1,soup.png
+298,Chicken Alfredo Tortellini,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,0,1,0,1,pasta.png
+299,Presto Made-to-Order Pizza,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+300,Calzone Bar,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+301,Presto Cheese Pizza,1,"Meal Type: Halal, Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+302,Presto Pepperoni Pizza,1,"Meal Type: Halal, Vegan, Vegetarian; Contains Allergens: Gluten/Wheat",0,0,1,1,1,0,1,pizza.png
+303,Presto Chicken Alfredo Pizza,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+304,Presto Vegetable Pizza,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+305,Presto Deluxe Pizza w/Pepperoni,1,"Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,1,1,1,0,1,pizza.png
+306,Presto Meat Lover's Pizza,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,1,1,1,0,1,pizza.png
+307,Southwest Three Bean Soup,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,soup.png
+308,Chicken Tortilla Soup,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk",0,0,0,1,1,0,1,soup.png
+309,Tortellini Alfredo w/Wild Mushrooms,1,"Meal Type: Vegetarian; Contains Allergens: egg.pngs, Gluten/Wheat, Milk, Soy",0,0,0,1,1,0,1,pasta.png
